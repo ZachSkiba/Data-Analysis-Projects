@@ -19,7 +19,7 @@ In this project, I performed an Exploratory Data Analysis (EDA) on a Superstore 
     - Sales have increased over the years, with 2018 being the year with the highest total sales.   
     - November had the highest sales, likely due to holiday shopping, and Saturday was the best sales day of the week.
 
-#Files Included:
+# Files Included:
 - `train.csv` - The dataset used for this analysis
 - `Sales EDA.ipynb` - The Jupyter Notebook with the analysis.
 
